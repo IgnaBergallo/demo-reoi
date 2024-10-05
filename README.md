@@ -1,2 +1,2 @@
-# demo-reoi
+# demo-repo
 Just a demo
